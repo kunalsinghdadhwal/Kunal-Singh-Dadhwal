@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+<div>
+<img align="center" src="https://profile-counter.glitch.me/Kunal-Singh-Dadhwal/count.svg" />
+</div>
+
 <!--
 **Kunal-Singh-Dadhwal/Kunal-Singh-Dadhwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
