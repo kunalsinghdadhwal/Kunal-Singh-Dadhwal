@@ -5,6 +5,17 @@
 <img align="center" src="https://profile-counter.glitch.me/Kunal-Singh-Dadhwal/count.svg" />
 </div>
 
+
+[![Click to visit site](./Code,.gif)](https://kunalsinghdev.xyz)
+
+
+<a href="https://kunalsinghdev.xyz" target="_blank">
+  <video autoplay loop muted playsinline style="pointer-events: none;">
+    <source src="/Code,.mp4" type="video/mp4">
+  </video>
+</a>
+
+
 <!--
 **Kunal-Singh-Dadhwal/Kunal-Singh-Dadhwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
